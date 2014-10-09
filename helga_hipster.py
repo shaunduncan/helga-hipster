@@ -19,7 +19,7 @@ RESPONSES = [
     u"You've probably never heard of them, but you should check out {thing}",
     u"I'm going to stop listening to {thing} once it goes mainstream",
     u"{thing} is probably the best thing you've never listened to",
-    u"'{thing} is great, but you you've probably never heard of it",
+    u"{thing} is great, but you you've probably never heard of it",
 ]
 
 
