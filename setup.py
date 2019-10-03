@@ -24,7 +24,7 @@ setup(name="helga-hipster",
       author_email='shaun.duncan@gmail.com',
       url='https://github.com/shaunduncan/helga-hipster',
       license='MIT',
-      install_requires=['requests==2.2.1'],
+      install_requires=['requests==2.20.0'],
       packages=find_packages(),
       py_modules=['helga_hipster'],
       entry_points=dict(
